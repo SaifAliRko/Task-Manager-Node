@@ -48,8 +48,8 @@ and navigate to
 ```
 # Screenshots
 <div style="display: flex; justify-content:center; align-items:center">
-  <img style="object-fit: cover;width: 100%;height: 250px;" alt="Express" src ="https://user-images.githubusercontent.com/71323220/178882998-ca9f2691-40c9-40b5-b0d2-0ec6f76c889c.png"/>
-  ![image](https://user-images.githubusercontent.com/71323220/178882998-ca9f2691-40c9-40b5-b0d2-0ec6f76c889c.png)
+  <img style="object-fit: contain;width: 400px;height:  400px;" alt="Express" src ="https://user-images.githubusercontent.com/71323220/178882998-ca9f2691-40c9-40b5-b0d2-0ec6f76c889c.png"/>
+  
   <img src="https://user-images.githubusercontent.com/71323220/178883013-43f5bb57-a5c7-4535-bce8-0aa594a11dd7.png" alt="mongoDB" />
 </div>
 <div style="display:flex ; justify-content:center; align-items:center">
