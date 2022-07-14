@@ -47,6 +47,7 @@ and navigate to
     $ http://localhost:3000/index.html
 ```
 # Screenshots
+<div style="display:flex ; justify-content:center; align-items:center">
 ![image](https://user-images.githubusercontent.com/71323220/178882998-ca9f2691-40c9-40b5-b0d2-0ec6f76c889c.png)
 ![image](https://user-images.githubusercontent.com/71323220/178883013-43f5bb57-a5c7-4535-bce8-0aa594a11dd7.png)
-
+</div>
