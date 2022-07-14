@@ -47,11 +47,6 @@ and navigate to
     $ http://localhost:3000/index.html
 ```
 # Screenshots
-<div style="display: flex; justify-content:center; align-items:center">
-  <img style="object-fit: contain;width: 400px;height:  400px;" alt="Express" src ="https://user-images.githubusercontent.com/71323220/178882998-ca9f2691-40c9-40b5-b0d2-0ec6f76c889c.png"/>
-  
-  <img src="https://user-images.githubusercontent.com/71323220/178883013-43f5bb57-a5c7-4535-bce8-0aa594a11dd7.png" alt="mongoDB" />
-</div>
 ![image](https://user-images.githubusercontent.com/71323220/178884606-5276cda4-e7aa-42dd-9e85-4ffe2403fba4.png)
 ![image](https://user-images.githubusercontent.com/71323220/178884627-fc853cca-8cc1-4e4a-be22-4c70f465afa9.png)
 
