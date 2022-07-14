@@ -16,7 +16,7 @@ An app created with Express js and Node using NoSQL database i.e. MongoDB
 Clone this repository using git clone into your local machine:
 
 ```
-    $ git clone https://github.com/rsupanta/task-manager-api.git
+    $ https://github.com/SaifAliRko/Task-Manager-Node.git
 ```
 
 Or you can download as zip file using github.
@@ -47,3 +47,6 @@ and navigate to
     $ http://localhost:3000/index.html
 ```
 # Screenshots
+![image](https://user-images.githubusercontent.com/71323220/178882998-ca9f2691-40c9-40b5-b0d2-0ec6f76c889c.png)
+![image](https://user-images.githubusercontent.com/71323220/178883013-43f5bb57-a5c7-4535-bce8-0aa594a11dd7.png)
+
