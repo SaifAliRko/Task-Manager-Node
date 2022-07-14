@@ -3,8 +3,8 @@
 
 ## Built With
 <div style="display: flex">
-  <img alt="Next JS" src ="https://img.shields.io/badge/Next%20JS-%20-black" style="width:129px; height: 26px"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img alt="Express" src ="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="width:129px; height: 26px"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
 </div>
 
 ## Description
